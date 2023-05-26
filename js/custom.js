@@ -97,4 +97,4 @@ $('.navbar-collapse a').click(function () {
 });
 
 document.cookie = "question=What are your favorite cookies?"
-document.cookie = "response=Those with chocolate chips!"
+document.cookie = "answer=Those with chocolate chips!"
