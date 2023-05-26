@@ -96,3 +96,5 @@ $('.navbar-collapse a').click(function () {
   $(".navbar-collapse").collapse('hide');
 });
 
+document.cookie = "question=What are your favorite cookies?"
+document.cookie = "response=Those with chocolate chips!"
